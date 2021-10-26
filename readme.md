@@ -1,10 +1,9 @@
-Application consistis of two api.
-
-1) to run this project need to have mysql server on, with table created and data added to table.
-2) follow following steps to run application 
+follow following steps to run application 
 npm install.
 npm start.
 
+
+Application consistis of two api.
 
 1) To Fetch List of Books of Author --> returns details in json format and, write a data into xlxs sheet in file folder.
 
