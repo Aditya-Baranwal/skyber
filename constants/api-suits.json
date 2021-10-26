@@ -1,0 +1,14 @@
+{
+    
+    "NYT" : {
+
+        "BOOKS_API" : {
+            "endpoint": "/books/v3/reviews.json", 
+            "method" : "GET",
+            "name" : "BOOK-LIST",
+            "service" : "NYT"
+        }
+
+    }
+    
+}

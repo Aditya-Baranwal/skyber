@@ -1,0 +1,10 @@
+{
+	"env": "default",
+    "NYT" : {
+        "url" : "https://api.nytimes.com/svc",
+        "api-key" : "4XmTlS1GM1Zk27EzFymJFhija0IuGg32",
+        "content_type": "application/json",
+        "encoding": null,
+        "connection": ""
+    }
+}
